@@ -1,3 +1,10 @@
+git add
+git commit -m "add ..."
+git push
+
+
 多员统计分析：
 1. pca
 
+2. 增加概率分布
+卡方分布
